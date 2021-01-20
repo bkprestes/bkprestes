@@ -1,4 +1,4 @@
-### Hello! 👋 I'am frontend Developer
+### Hello! 👋 I'am Developer
 
 <!--
 **bkprestes/bkprestes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
