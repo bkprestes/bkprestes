@@ -6,6 +6,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bkprestes&layout=compact&langs_count=10&theme=dracula"/>
 </div>
 
+![Snake animation](https://github.com/bkprestes/bkprestes/blob/output/github-contribution-grid-snake.svg)
+ 
 <!--
 **bkprestes/bkprestes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
