@@ -1,7 +1,7 @@
 ### Hello! 👋 I'am Developer
 
 - 🔭 I’m currently working on Publicações Online
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python and Java
 - 💬 Ask me about Angular
 - 📫 How to reach me: https://www.linkedin.com/in/rebecaprestes/
 
