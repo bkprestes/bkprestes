@@ -1,10 +1,19 @@
 ### Hello! 👋 I'am Developer
 
-<div>
+- 🔭 I’m currently working on Publicações Online
+- 🌱 I’m currently learning Python
+- 💬 Ask me about Angular
+- 📫 How to reach me: https://www.linkedin.com/in/rebecaprestes/
+
+<!-- - 😄 Pronouns: ...
+- ⚡ Fun fact: ... -->
+<!-- - 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ... -->
+<!-- <div>
  <a href="https://github.com/bkprestes">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bkprestes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bkprestes&layout=compact&langs_count=10&theme=dracula"/>
-</div>
+</div> -->
 
 ![Snake animation](https://github.com/bkprestes/bkprestes/blob/output/github-contribution-grid-snake.svg)
  
