@@ -15,8 +15,8 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bkprestes&layout=compact&langs_count=10&theme=dracula"/>
 </div> -->
 <p>
- <img align="center" width=350 src="https://github-readme-stats.vercel.app/api?username=bkprestes&show_icons=true&theme=dracula&locale=en&include_all_commits=true&count_private=true" alt="bkprestes" />
- <img align="center" width=350 src="https://github-readme-streak-stats.herokuapp.com/?user=bkprestes&theme=dark" alt="bkprestes" />
+ <img align="center" width=400 src="https://github-readme-stats.vercel.app/api?username=bkprestes&show_icons=true&theme=dracula&locale=en&include_all_commits=true&count_private=true" alt="bkprestes" />
+ <img align="center" width=400 src="https://github-readme-streak-stats.herokuapp.com/?user=bkprestes&theme=dark" alt="bkprestes" />
 </p>
 
 ![Snake animation](https://github.com/bkprestes/bkprestes/blob/output/github-contribution-grid-snake.svg)
