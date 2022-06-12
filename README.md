@@ -1,6 +1,6 @@
 ### Hello! 👋 I'am Developer
 
-- 🔭 I’m currently working as Dev and Scrum Master
+- 🔭 I’m currently working as Dev
 - 🌱 I’m currently learning Python and Java
 - 💬 Ask me about Angular
 - 📫 How to reach me: https://www.linkedin.com/in/rebecaprestes/
