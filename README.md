@@ -9,6 +9,13 @@
 - ⚡ Fun fact: ... -->
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ... -->
+<div>
+    <a href="https://github.com/bkprestes">
+        <img height="180em"
+            src="https://github-readme-stats.vercel.app/api?username=bkprestes&show_icons=true&theme=react&include_all_commits=true&count_private=true" />
+        <img height="180em"
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=bkprestes&layout=compact&langs_count=7&theme=react" />
+</div>
 <!-- <div>
  <a href="https://github.com/bkprestes">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bkprestes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
