@@ -1,7 +1,7 @@
 ### Hello! 👋 I'am Developer
 
 - 🔭 I’m currently working as Dev
-- 🌱 I’m currently learning Python and Java
+- 🌱 I’m currently learning Java, Mongo, Ruby, React, Nextjs
 - 💬 Ask me about Angular
 - 📫 How to reach me: https://www.linkedin.com/in/rebecaprestes/
 
